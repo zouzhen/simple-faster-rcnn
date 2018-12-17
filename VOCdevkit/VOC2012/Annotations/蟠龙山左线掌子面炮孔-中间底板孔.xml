@@ -1,0 +1,26 @@
+<annotation>
+   <folder>Image</folder>
+   <filename>蟠龙山左线掌子面炮孔-中间底板�?jpg</filename>
+   <path>D:\SoftWork\MATLAB\Annotation\Image\蟠龙山左线掌子面炮孔-中间底板�?jpg</path>
+   <source>
+      <database>Unknow</database>
+   </source>
+   <size>
+      <width>1334</width>
+      <height>1001</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>blasthole</name>
+      <pose>Unspecified</pose>
+      <truncated>0</truncated>
+      <difficult>0</difficult>
+      <bndbox>
+         <xmin>624</xmin>
+         <ymin>450</ymin>
+         <xmax>722</xmax>
+         <ymax>539</ymax>
+      </bndbox>
+   </object>
+</annotation>
